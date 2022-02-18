@@ -6,11 +6,11 @@
     <MioComponente></MioComponente>
     <MioComponente></MioComponente>
     <MioComponente></MioComponente>
-
   </div>
 </template>
 
 <script>
+
 import MioComponente from './components/MioComponente.vue'
 
 export default {
